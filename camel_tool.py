@@ -1,4 +1,4 @@
-
+import camel
 from superagi.tools.base_tool import BaseTool
 from camel.agents import ChatAgent
 from camel.messages import BaseMessage
