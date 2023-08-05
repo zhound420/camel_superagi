@@ -1,5 +1,5 @@
 from superagi.tools.base_tool import BaseTool
-from camel import ChatAgent
+from camel.agents import ChatAgent
 from camel.messages import BaseMessage
 from typing import Type, List
 from camel_tool_input import CamelToolInput
